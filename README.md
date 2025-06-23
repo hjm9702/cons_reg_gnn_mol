@@ -14,10 +14,10 @@ Source code for the paper: Consistency-Regularized Graph Neural Networks for Mol
 - **run.sh** - run code example
 
 ## Dependencies
-- **Pytorch==1.12.0**
-- **DGL==1.1.1**
-- **RDKit==2022.03.2**
-- **Scikit-Learn==1.3.0**
+- **Pytorch=1.12.0**
+- **DGL=1.1.1**
+- **RDKit=2022.03.2**
+- **Scikit-Learn=1.3.0**
 
 ## Citation
 TBU
